@@ -1,2 +1,2 @@
-# BetterEnd-Issues
-Issues repository for the BetterEnd plugin
+# BetterEnd-Public
+Issues and Wiki repository for the BetterEnd plugin
