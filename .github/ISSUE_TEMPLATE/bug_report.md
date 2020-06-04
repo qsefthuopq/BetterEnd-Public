@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Something isn't working.
 title: ''
 labels: bug
 assignees: dfsek
