@@ -27,7 +27,6 @@ If applicable, add screenshots to help explain your problem.
 Please submit the output of the following commands:
 `/paper version` (or `/spigot version`)
 `/be version`
-`/worldedit version`
 **Do not submit just the version number, submit the entire command output!**
 
 **Additional context**
