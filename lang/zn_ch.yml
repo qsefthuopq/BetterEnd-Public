@@ -21,6 +21,9 @@ commands:
    reload-config: "&b重新加载BetterEnd配置文件中..."
    complete-msg: "&b重载完毕."
    biome: "&b您所处的生物群系是 \"&3%s&b\""
+   unable-to-locate: "&bUnable to locate biome."
+   tp: "&bTeleporting..."
+   locating-biome: "&bLocating biome \"&3%s&b\""
 structure-log: "正在生成建筑结构 \"%1$s\" 于 %2$s %3$s %4$s. 建筑尺寸: X:%5$s, Y:%6$s, Z:%7$s."
 custom-structures:
    enable: "初始化自定义结构填充器..."
