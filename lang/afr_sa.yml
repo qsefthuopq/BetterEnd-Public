@@ -35,7 +35,7 @@ custom-structures:
 mythicmobs:
    enable: "Begin MythicMobs-integrasie"
    fail-to-spawn: "staak kuit van Mobs. Is MythicMobs geïnstalleer?"
-   unable-to-find: "Kan nie mythicSpawns.yml opspoor nie. staak MythicMobs ewekansige kuiting.
+   unable-to-find: "Kan nie mythicSpawns.yml opspoor nie. staak MythicMobs ewekansige kuiting."
 advancements:
    enable: "Aktiveer vooruitgang..."
 paper:
