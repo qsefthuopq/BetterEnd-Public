@@ -6,7 +6,7 @@ enable:
 disable:
    - "&fVielen Dank für die Nutzung von BetterEnd!"
 free-notification:
-   - "&bSie betreiben die kostenlose Version von BetterEnd. Bitte ziehen Sie den Kauf der Premium-Version in Betracht, um das Plugin zu unterstützen und zusätzliche Funktionen zu erhalten!
+   - "&bSie betreiben die kostenlose Version von BetterEnd. Bitte ziehen Sie den Kauf der Premium-Version in Betracht, um das Plugin zu unterstützen und zusätzliche Funktionen zu erhalten!"
    - "&bWeitere Informationen finden Sie hier: &nhttps://github.com/dfsek/BetterEnd-Public/wiki/Premium"
 command-prefix: "&3[BetterEnd] "
 update:
@@ -41,12 +41,12 @@ advancements:
    enable: "Aktiviere Fortschritte..."
 paper:
    - "Sie benutzen Spigot/CraftBukkit für Ihren Server."
-   - "Für die beste Erfahrung mit BetterEnd und all Ihren Plugins verwenden Sie bitte Paper!
-   - "Paper enthält viele Optimierungen zusätzlich zu Spigot's, was bedeutet, dass Sie eine enorme Leistungssteigerung sehen werden.
-   - "Paper ist auch eine Abspaltung von Spigot, was bedeutet, dass alle Ihre Plugins weiterhin mit Paper funktionieren sollten.
+   - "Für die beste Erfahrung mit BetterEnd und all Ihren Plugins verwenden Sie bitte Paper!"
+   - "Paper enthält viele Optimierungen zusätzlich zu Spigot's, was bedeutet, dass Sie eine enorme Leistungssteigerung sehen werden."
+   - "Paper ist auch eine Abspaltung von Spigot, was bedeutet, dass alle Ihre Plugins weiterhin mit Paper funktionieren sollten."
    - "Weitere Informationen finden Sie auf deren Website: https://papermc.io/"
 untested:
    - "Sie verwenden eine andere Server-Implementierung als Spigot oder Paper!"
-   - "BetterEnd wurde mit dieser Implementierung nicht getestet, und es wird nur minimaler Support geleistet, falls bei der Verwendung Probleme auftreten sollten.
+   - "BetterEnd wurde mit dieser Implementierung nicht getestet, und es wird nur minimaler Support geleistet, falls bei der Verwendung Probleme auftreten sollten."
    - "Wenn Sie Probleme haben, testen Sie auf Papier, bevor Sie sie melden!"
    - "Wenn Sie möchten, dass Ihre Implementierung offiziell unterstützt wird, wenden Sie sich an dfsek auf dem BetterEnd Discord-Server."
