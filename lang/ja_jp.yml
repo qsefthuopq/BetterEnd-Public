@@ -2,6 +2,7 @@ enable:
   - "&fBetterEndは下記の方々の支援がなければ実現しなかったでしょう:"
   - "&f開発者: dfsek, Baer"
   - "&f建築: GucciPoochie, sgtmushroom39, Daverono, Merazmus"
+  - "&fPatrons: EtherealSquid"
 disable:
   - "&fBetterEndを使ってくれてありがとう！"
 free-notification:

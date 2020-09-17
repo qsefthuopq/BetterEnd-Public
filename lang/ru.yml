@@ -2,6 +2,7 @@ enable:
    - "&fBetterEnd был бы невозможен без поддержки этих людей:"
    - "&fРазработчики: dfsek и Baer"
    - "&fСтроители: GucciPoochie, sgtmushroom39, Daverono, и Merazmus"
+   - "&fPatrons: EtherealSquid"
 disable:
    - "&fСпасибо, что используете BetterEnd!"
 free-notification:
