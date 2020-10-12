@@ -14,16 +14,19 @@ update:
    up-to-date: "你的BetterEnd版本是最新版！(%s) "
    more-recent: "你的BetterEnd版本比公开版本(%s)更新。"
    error: "检测更新时出错。原因："
+command:
+   world: "&c这个世界没有使用BetterEnd的！"
+   players-only: "&b这个指令只能由玩家使用！"
+   invalid: "无效的指令。 (预期%1$s个参数，现只有%2$s)。"
+   debug-only: "这个指令只能在调试模式下使用！"
 commands:
-   for-players-only: "&b这个指令只能由玩家使用！"
-   not-betterend-world: "&c这个世界不是BetterEnd的世界!"
    no-permission: "&c你没有权限使用这个指令。"
    version: "&b服务器正使用&3BetterEnd v%s"
-   reload-config: "&b重载BetterEnd配置中..."
+   reload-config: "&b重载BetterEnd配置中……"
    complete-msg: "&b完成。"
    biome: "&b你位于 \"&3%s&b\""
    unable-to-locate: "&b无法定位生物群系所在位置。"
-   tp: "&b传送中..."
+   tp: "&b传送中……"
    locating-biome: "&b定位生物群系中 \"&3%s&b\""   
 structure-log: "生成建筑结构 \"%1$s\"，位于 %2$s %3$s %4$s。 世界：X:%5$s, Y:%6$s, Z:%7$s。"
 custom-structures:
@@ -38,7 +41,7 @@ mythicmobs:
    fail-to-spawn: "刷怪失败。你安装了MythicMobs吗？"
    unable-to-find: "找不到mythicSpawns.yml。正中止随机生成MythicMobs的怪物。"
 advancements:
-   enable: "启用进度中..."
+   enable: "启用进度中……"
 paper:
    - "您正使用Spigot/CraftBukkit。"
    - "为了最佳的插件体验，推荐使用Paper端！"
